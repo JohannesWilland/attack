@@ -1,3 +1,1 @@
-<?PHP echo "Hello THM"; ?>
-
-Hallo wie geht's?
+hostname
