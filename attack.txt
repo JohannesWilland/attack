@@ -1,1 +1,3 @@
-<?PHP echo $HOSTNAME; ?>
+<?PHP 
+echo $HOSTNAME; 
+?>
